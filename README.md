@@ -58,7 +58,7 @@ The Titanic dataset is stored in Excel format and includes the following attribu
   - Filters  
   - Data Cleaning  
   - Formatting  
-- **GitHub**
+  - GitHub
 
 ---
 
