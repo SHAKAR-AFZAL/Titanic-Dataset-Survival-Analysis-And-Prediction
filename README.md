@@ -37,7 +37,7 @@ The primary goals of this project are:
 ---
 
 ## Dataset 
-🗂️ <a href="YOUR_DATASET_LINK_HERE">Dataset View</a>
+🗂️ <a href="https://github.com/SHAKAR-AFZAL/titanic-data-analysis-excel/blob/main/Titanic%20Dataset.xls">Dataset View</a>  
 
 The Titanic dataset is stored in Excel format and includes the following attributes:
 
@@ -109,7 +109,7 @@ The Titanic dataset is stored in Excel format and includes the following attribu
 ---
 
 ## Dashboard  
-<a href="YOUR_DASHBOARD_IMAGE_LINK_HERE">📊 Dashboard Picture</a>
+<a href="https://github.com/SHAKAR-AFZAL/titanic-data-analysis-excel/blob/main/Dashboard%20Photo.png">📊 Dashboard Picture</a>
 
 The Excel dashboard displays:
 
