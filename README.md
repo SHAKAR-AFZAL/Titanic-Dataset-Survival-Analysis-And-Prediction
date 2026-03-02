@@ -109,7 +109,7 @@ The Titanic dataset is stored in Excel format and includes the following attribu
 ---
 
 ## Dashboard  
-<a href="https://github.com/SHAKAR-AFZAL/titanic-data-analysis-excel/blob/main/Dashboard%20Photo.png">📊 Dashboard Picture</a>
+<a href="https://github.com/SHAKAR-AFZAL/titanic-data-analysis-excel/blob/main/Dashboard%20Picture.png">📊 Dashboard Picture</a>
 
 The Excel dashboard displays:
 
