@@ -26,7 +26,7 @@ The dashboard highlights how factors such as gender, age, and passenger class in
 ---
 
 ## Project Objective
-The primary goals of this project are:
+The primary goals of this project are
 
 - Analyze overall passenger survival distribution  
 - Identify survival differences by gender  
