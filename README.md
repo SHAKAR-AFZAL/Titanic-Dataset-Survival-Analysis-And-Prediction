@@ -30,7 +30,7 @@ The primary goals of this project are
 
 - Analyze overall passenger survival distribution  
 - Identify survival difference by gender  
-- Examine the impact of passenger class on survival  
+- Examine the impact of the passenger class on survival  
 - Analyze age-group survival patterns  
 - Provide clear, interactive, data-driven insights  
 
