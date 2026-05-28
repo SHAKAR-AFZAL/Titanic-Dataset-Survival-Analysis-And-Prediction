@@ -124,7 +124,7 @@ The Excel dashboard displays:
 
 
 ## Conclusion
-The Titanic dataset reveals strong survival disparities based on **gender**, **passenger class**, and **age**. Female and first-class passengers had significantly higher survival probabilities, while lower class male passengers were the most vulnerable group.
+The Titanic dataset reveals strong survival disparities based on **gender**, **passenger class**, and **age**. Female and first-class passengers had significantly higher survival probabilities, while lower class male passengers were most vulnerable group.
 
 These insights demonstrate how demographic and socioeconomic factors can heavily influence survival outcomes in crisis situations.
 
